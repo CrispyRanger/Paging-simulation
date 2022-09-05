@@ -1,1 +1,5 @@
-# This is the paging projects code for ITRW316-2019
+# Paging simulation
+
+This is an attempt so simulate paging in Java.
+
+Java is required to run this program
